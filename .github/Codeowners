@@ -1,8 +1,8 @@
-* @Loco-Software/Execs
+* @Loco-Software/execs
 
-src/ @Loco-Software/Developers @Loco-Software/code-reviewers 
-docs/ @Loco-Software/Developers @Loco-Software/code-reviewers
+src/ @Loco-Software/developers @Loco-Software/code-reviewers 
+docs/ @Loco-Software/developers @Loco-Software/code-reviewers
 .github/ @Loco-Software/cicd-administrators
 License @Loco-Software/code-reviewers
-Contributing.md @Loco-Software/Developers @Loco-Software/code-reviewers
-Changelog.md @Loco-Software/Developers @Loco-Software/code-reviewers
+Contributing.md @Loco-Software/developers @Loco-Software/code-reviewers
+Changelog.md @Loco-Software/developers @Loco-Software/code-reviewers
