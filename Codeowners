@@ -1,0 +1,4 @@
+* @loco-software/execs
+src/ @loco-software/developers @loco-software/code-reviewers
+docs/ @loco-software/developers @loco-software/code-reviewers
+.github/ @loco-software/developers @loco-software/code-reviewers @loco-software/cicd-administrators
